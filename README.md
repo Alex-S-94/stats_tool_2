@@ -1,5 +1,5 @@
-# drv-project
-Container for the innovation project WS '22
+# DRV-Stats 2
+Container for the Anwendungsprojekt SS 2024
 
 ## Deployment on Railway.app
 
